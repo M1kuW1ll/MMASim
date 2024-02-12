@@ -1,6 +1,6 @@
 # MEV-Boost Auction Simulation Framework
 
-<img src="https://ethresear.ch/uploads/default/original/2X/8/8b838cb489dea1a8bbb4c093ccc0fee1e91fff0e.jpeg" alt="img" style="zoom:10%;" />
+<img src="https://ethresear.ch/uploads/default/original/2X/8/8b838cb489dea1a8bbb4c093ccc0fee1e91fff0e.jpeg" alt="img" style="zoom:5%;" />
 
 Developed by [Fei](https://twitter.com/William33203632) and [soispoke.eth](https://twitter.com/soispoke).
 

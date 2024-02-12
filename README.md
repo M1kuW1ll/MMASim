@@ -1,5 +1,7 @@
 # MEV-Boost Auction Simulation Framework
 
+<img src="https://ethresear.ch/uploads/default/original/2X/8/8b838cb489dea1a8bbb4c093ccc0fee1e91fff0e.jpeg" alt="img" style="zoom:10%;" />
+
 Developed by [Fei](https://twitter.com/William33203632) and [soispoke.eth](https://twitter.com/soispoke).
 
 For details about the Game-theoretic MEV-Boost Auction Model, please refer to the [MMA post](https://ethresear.ch/t/game-theoretic-model-for-mev-boost-auctions-mma/16206) and [bidding war paper](https://arxiv.org/abs/2312.14510).

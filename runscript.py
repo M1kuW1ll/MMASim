@@ -1,9 +1,9 @@
-# Description: This file is used to run the simulation for the auction model. It uses the main_new.py file to run the simulation and saves the results to a csv file.
+# Description: This file is used to run the simulation for the auction model. It uses the main.py file to run the simulation and saves the results to a csv file.
 
 import random
 import pandas as pd
 
-from main_new import Auction
+from main import Auction
 
 def generate_strategies(fixed_strategy=None, manual_values=None):
     if manual_values:

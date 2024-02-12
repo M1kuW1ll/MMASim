@@ -38,6 +38,7 @@ class PlayerWithNaiveStrategy(Player):
         if self.aggregated_signal > self.pm:
             self.bid = self.aggregated_signal - self.pm
         self.bid_queue.append((self.bid, self.aggregated_signal))
+        
 class PlayerWithAdaptiveStrategy(Player):
     def step(self):
         super().step()

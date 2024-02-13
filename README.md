@@ -25,7 +25,7 @@ Mesa, NumPy, Pandas, Matplotlib, SciPy
 ## Components
 The **Player class** defines and initializes basic parameters shared by all types of agents.
 
-Each **PlayerWithStrategy class** is a subclass of the **Player class** that defines the bidding behaviors of each type of agent using corresponding strategies.
+Each **PlayerWithStrategy class** is a subclass of the **Player class** that defines the bidding behaviors of each type of agent using the corresponding strategy.
 
 The **Auction class** manages the simulation environment, including signal updates, agent interactions, and data collection. 
 

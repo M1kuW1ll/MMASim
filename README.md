@@ -5,7 +5,7 @@
 
 Developed by [Fei](https://twitter.com/William33203632) and [soispoke.eth](https://twitter.com/soispoke).
 
-For details about the Game-theoretic MEV-Boost Auction Model, please refer to the [MMA post](https://ethresear.ch/t/game-theoretic-model-for-mev-boost-auctions-mma/16206) and [bidding war paper](https://arxiv.org/abs/2312.14510).
+For details about the Game-theoretic MEV-Boost Auction Model, users are strongly recommended to check the [MMA post](https://ethresear.ch/t/game-theoretic-model-for-mev-boost-auctions-mma/16206) and [bidding war paper](https://arxiv.org/abs/2312.14510).
 
 The simulation is built using the [Mesa framework](https://mesa.readthedocs.io/en/stable/) for agent-based modeling in Python. 
 
@@ -31,6 +31,16 @@ The **Auction class** manages the simulation environment, including signal updat
 
 ## Data Collection and Visualization
 Data collection is achieved by Mesa.Datacollector(). The simulation collects data on bids, agent strategies, and signal values at each step. After the simulation ends, it visualizes the bidding dynamics over time and displays the final auction outcomes.
+
+## Parameter Values
+For parameter value settings, some useful resources are listed here:
+
+[BBP Post](https://ethresear.ch/t/empirical-analysis-of-builders-behavioral-profiles-bbps/16327)
+
+[mevboost.pics](mevboost.pics)
+
+[orderflow.art](orderflow.art)
+
 
 ## Customization
 You can customize the simulation by adjusting the number of agents using each strategy, agent parameters when adding agents into the auction model, and the auction parameters in the Auction class initialization within the script. Or, create new strategies and use the framework for simulation.

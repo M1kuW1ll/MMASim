@@ -10,7 +10,7 @@ For details about the Game-theoretic MEV-Boost Auction Model, users are strongly
 The simulation is built using the [Mesa framework](https://mesa.readthedocs.io/en/stable/) for agent-based modeling in Python. 
 
 ## Features
-Simulation: Bids by agents with different strategies in MEV-Boost Auction per time step.
+Auction simulation: Bids submitted by agents with different strategies per time step in the MEV-Boost auction .
 
 Multiple bidding strategies: Naive, Adaptive, Last Minute, Stealth, and Bluff strategies.
 

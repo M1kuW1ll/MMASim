@@ -37,9 +37,9 @@ For parameter value settings, some useful resources are listed here:
 
 [BBP Post](https://ethresear.ch/t/empirical-analysis-of-builders-behavioral-profiles-bbps/16327)
 
-[mevboost.pics](mevboost.pics)
+[mevboost.pics](https://mevboost.pics/)
 
-[orderflow.art](orderflow.art)
+[orderflow.art](https://orderflow.art/)
 
 
 ## Customization

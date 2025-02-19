@@ -19,7 +19,7 @@ Data Collection and Visualization: Collects bidding data throughout the simulati
 ## Setup
 To run this simulation, you will need Python 3.8 (or above) installed on your system along with the following Python libraries:
 
-Mesa, NumPy, Pandas, Matplotlib, SciPy
+Mesa (<= 2.3.4), NumPy, Pandas, Matplotlib, SciPy
 
 
 ## Components
